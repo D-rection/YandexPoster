@@ -1,0 +1,51 @@
+html {
+  font-family: "Arial";
+  line-height: 1.25;
+}
+.content {
+  margin-top: 60px;
+  width: 800px;
+  margin-left: 100px;
+  margin-right: 1000px;
+}
+.colorletter {
+  color: red;
+}
+.title{
+    margin-top: 60px;
+    font-size: 75px;
+}
+.review{
+    margin-top: 45px;
+    font-size: 40px;
+}
+
+.columns{
+    width: 800px;
+    align-content: left;
+    margin-top: 45px;
+    border-spacing: -10px;
+}
+
+.course_content{
+    width: 50%;
+}
+
+.course_content ul{
+    margin-top: -10px;
+    margin-left: -25px;
+    line-height: 1.6;
+}
+
+.course_description{
+    padding-right: 120px;
+}
+
+.meeting{
+    margin-top: 7%;
+}
+
+img{
+    margin-left: -8.5%;
+    margin-top: 10%;
+}
